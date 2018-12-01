@@ -2,7 +2,7 @@
 django-markupfield-helpers
 **************************
 
-``django-markupfield-helpers`` makes it easier to work with ``django-markupfield``.
+``django-markupfield-helpers`` is a set of Django helpers that make it easier to get up and running quickly with ``django-markupfield``.
 
 Source code is available on GitHub at `mfcovington/django-markupfield-helpers <https://github.com/mfcovington/django-markupfield-helpers>`_. Information about ``django-markupfield`` is available on `GitHub <https://github.com/jamesturk/django-markupfield>`_.
 

@@ -30,7 +30,7 @@ setup(
     include_package_data=True,
     license='BSD License',
     keywords='markup markdown',
-    description='Django helpers to make it easier to work with django-markupfield',
+    description='A set of Django helpers that make it easier to get up and running quickly with django-markupfield',
     long_description=(read('README.rst') + '\n\n' +
                       read('CHANGELOG.rst')),
     url='https://github.com/mfcovington/django-markupfield-helpers',
