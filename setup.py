@@ -20,6 +20,7 @@ install_requires = [
     "django-markupfield>=1.3.5",    # Confirmed good through 1.5.0
     "docutils>=0.12",    # Confirmed good through 0.14
     "markdown2>=2.3.0",    # Confirmed good through 2.3.6
+    "Pygments>=2.0.2",    # Confirmed good through 2.2.0
 ]
 
 setup(
