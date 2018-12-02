@@ -1,5 +1,5 @@
 include CHANGELOG.rst
 include LICENSE
 include README.rst
-recursive-include markup_field_helpers/static *
-recursive-include markup_field_helpers/templates *
+recursive-include markupfield_helpers/static *
+recursive-include markupfield_helpers/templates *
