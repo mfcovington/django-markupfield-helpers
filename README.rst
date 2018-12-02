@@ -13,6 +13,13 @@ Source code is available on GitHub at `mfcovington/django-markupfield-helpers <h
 Installation
 ============
 
+**PyPI**
+
+.. code-block:: sh
+
+    pip install django-markupfield-helpers
+
+
 **GitHub (development branch)**
 
 .. code-block:: sh
@@ -103,4 +110,4 @@ Issues
 If you experience any problems or would like to request a feature, please `create an issue <https://github.com/mfcovington/django-markupfield-helpers/issues>`_ on GitHub.
 
 
-*Version 0.0.0*
+*Version 0.1.0*
